@@ -1,0 +1,23 @@
+run_id,commit_sha,commit_message,status,workflow_duration,job_name,job_duration,test_count,test_failures,timestamp
+27097205944,d3e5bf3,returns sequence of ci,success,23,Análise Estática (Lint),7,0,0,2026-06-07T15:45:37Z
+27097205944,d3e5bf3,returns sequence of ci,success,23,Testes Automatizados,9,0,0,2026-06-07T15:45:37Z
+27097188653,ca3ba2d,remove test dependencie on lint,success,14,Análise Estática (Lint),9,0,0,2026-06-07T15:45:02Z
+27097188653,ca3ba2d,remove test dependencie on lint,success,14,Testes Automatizados,10,0,0,2026-06-07T15:45:02Z
+27097163831,3a84791,test before lint,success,23,Análise Estática (Lint),7,0,0,2026-06-07T15:44:00Z
+27097163831,3a84791,test before lint,success,23,Testes Automatizados,9,0,0,2026-06-07T15:44:00Z
+27097123995,b05ad26,reactivate cache,success,24,Análise Estática (Lint),7,0,0,2026-06-07T15:42:24Z
+27097123995,b05ad26,reactivate cache,success,24,Testes Automatizados,11,0,0,2026-06-07T15:42:24Z
+27097104035,970278d,no cache,success,33,Análise Estática (Lint),10,0,0,2026-06-07T15:41:36Z
+27097104035,970278d,no cache,success,33,Testes Automatizados,14,0,0,2026-06-07T15:41:36Z
+27097082985,ee74ab5,lazy test,success,57,Análise Estática (Lint),9,0,0,2026-06-07T15:40:43Z
+27097082985,ee74ab5,lazy test,success,57,Testes Automatizados,42,0,0,2026-06-07T15:40:43Z
+27097042234,c23fa7f,tests volume,failure,14,Análise Estática (Lint),10,0,0,2026-06-07T15:39:02Z
+27097042234,c23fa7f,tests volume,failure,14,Testes Automatizados,0,0,0,2026-06-07T15:39:02Z
+27097014768,1320663,green pipeline,success,30,Análise Estática (Lint),8,0,0,2026-06-07T15:37:50Z
+27097014768,1320663,green pipeline,success,30,Testes Automatizados,15,0,0,2026-06-07T15:37:50Z
+27097000056,ab27585,test fail,failure,26,Análise Estática (Lint),8,0,0,2026-06-07T15:37:13Z
+27097000056,ab27585,test fail,failure,26,Testes Automatizados,11,0,0,2026-06-07T15:37:13Z
+27096987787,3ca5840,lint fail,failure,13,Análise Estática (Lint),9,0,0,2026-06-07T15:36:42Z
+27096987787,3ca5840,lint fail,failure,13,Testes Automatizados,0,0,0,2026-06-07T15:36:42Z
+27096908722,0108c35,fix ci file location,success,23,Análise Estática (Lint),7,0,0,2026-06-07T15:33:32Z
+27096908722,0108c35,fix ci file location,success,23,Testes Automatizados,9,0,0,2026-06-07T15:33:32Z
