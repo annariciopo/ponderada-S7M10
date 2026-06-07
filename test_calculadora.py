@@ -1,4 +1,3 @@
-import time
 import pytest
 from calculadora import somar, subtrair, multiplicar, dividir
 
@@ -12,7 +11,6 @@ def test_somar():
 def test_subtrair():
     assert subtrair(10, 5) == 5
     assert subtrair(0, 5) == -5
-    time.sleep(30)
 
 
 def test_multiplicar():
