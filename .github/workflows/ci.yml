@@ -28,7 +28,7 @@ jobs:
   test:
     name: Testes Automatizados
     runs-on: ubuntu-latest
-    # needs: lint 
+    needs: lint
     steps:
       - name: Checkout do código
         uses: actions/checkout@v4
